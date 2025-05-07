@@ -1,0 +1,78 @@
+/* STYLE SECTIONING TAGS */
+*{margin: 0px; padding: 0px}
+body {
+ background-color: rgb(219, 224, 183);
+ text-align: center
+}
+main {text-align: center;
+      font-size: 1.25pc;
+      margin-right: 5%;
+      margin-left: 5%
+     }
+header {background-color: rgb(182, 182, 141)}
+/* STYLE TEXT */
+h1 {
+  font-family:'Segoe Script';
+  font-size: 4pc;
+  color: rgb(21, 68, 13);
+  text-align: center
+  }
+h3 {
+  font-family:'Segoe Print';
+  font-size: 2pc;
+  color: rgb(21, 68, 13);
+  text-align: center
+    }
+h4 {
+  font-family:'Calibri';
+  font-size: 1.50pc;
+  color:black;
+  text-align: center;
+  padding-top: 2em
+   } 
+   h5 {
+  font-family:'Calibri';
+  font-size: 1.25pc;
+  color :red;
+  text-align: center;
+  padding-top: 1em
+   } 
+
+p {
+  font-size: 1.50pc;
+  padding-bottom: 1em} 
+
+/* STYLE IMAGES */
+img {
+  border-radius: 50%;
+  margin-right: 1em;
+  margin-bottom: 2em
+  }
+  #flower {
+    border-radius:0%;
+    padding-top:1em;
+    padding-bottom: 0em
+  }
+  #cool {color: black}
+/* STYLE NAV BAR */
+ul {
+ list-style-type: none;
+ background-color: rgb(21, 68, 13); 
+ overflow: hidden;
+ padding: 0.65em
+}
+li {display: inline}
+li a {
+  text-decoration: none;
+  color: rgb(219, 224, 183);
+  font-size: 1.3em;
+  padding: 1em
+}
+li a:hover {
+  background-color: rgb(146, 146, 115)
+}
+
+a:link{
+  text-decoration: none;
+  color:black;
+}
